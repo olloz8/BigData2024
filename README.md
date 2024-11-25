@@ -9,12 +9,13 @@
 Kosis.kr 사이트에서 소득구간별 출산자녀 현황 csv 다운로드
 
 ## 데이터 전처리
-![데이터전처리](https://github.com/user-attachments/assets/cede4d6d-f3c9-4348-be1e-3da75d261947)<br>  
+![데이터전처리1](https://github.com/user-attachments/assets/cede4d6d-f3c9-4348-be1e-3da75d261947)<br>  
+![데이터전처리2](https://github.com/user-attachments/assets/2c97bf6e-2bac-4ce2-921a-c30b4929f23e)<br>
 - 0, 1번째 행 삭제 후 기존에 남아있는 2번째 행 열 이름 재설정<br>
 - 소득구간 만원 단위 제거, 데이터 타입 확인 후 숫자형 데이터로 변환<br>
 
 ## 데이터 변환
-![데이터변환](https://github.com/user-attachments/assets/2c97bf6e-2bac-4ce2-921a-c30b4929f23e)<br>
+![데이터변환](https://github.com/user-attachments/assets/d031f2ed-440f-48bd-99ac-23d53146451c)<br>
 - 소득 구간, 자녀 수, 평균 출생아 수 등의 데이터를 to_numpy()를 이용해 NumPy 배열로 전환
 
 ## 시각화

@@ -10,7 +10,7 @@
 Kosis.kr 사이트에서 소득구간별 출산자녀 현황 csv 다운로드
 
 ## 데이터 전처리
-![데이터전처리](https://github.com/user-attachments/assets/2bd0b151-c924-4ecf-8c26-10ae2bfd8764)<br>
+![데이터전처리](https://github.com/user-attachments/assets/cede4d6d-f3c9-4348-be1e-3da75d261947)<br>  
 - 0, 1번째 행 삭제 후 기존에 남아있는 2번째 행 열 이름 재설정<br>
 - 소득구간 만원 단위 제거, 데이터 타입 확인 후 숫자형 데이터로 변환<br>
 
@@ -22,7 +22,7 @@ Kosis.kr 사이트에서 소득구간별 출산자녀 현황 csv 다운로드
 1. 막대 그래프 <br>
 ![막대 그래프](https://github.com/user-attachments/assets/851f2d9a-18f7-409b-9390-9494fc41981e)<br>
 2. 누적 막대 그래프 <br>
-![누적 막대 그래프](https://github.com/user-attachments/assets/29bf601d-cce7-4d38-9985-8771d23ea8d2)<br>
+![누적막대그래프](https://github.com/user-attachments/assets/c7ea5c9a-b2bb-4a66-93fb-9dfaba8d3287)<br>
 3. 선 그래프 <br>
 ![선 그래프](https://github.com/user-attachments/assets/986d7499-34d6-47c3-bf46-9f949501e29d)<br>
 4. 산점도 <br>
